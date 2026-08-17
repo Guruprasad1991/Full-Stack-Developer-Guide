@@ -1,0 +1,32 @@
+.main {
+  margin-top: 100px;
+}
+
+img {
+  display: block;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  display: block;
+  height: 30px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+button {
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
